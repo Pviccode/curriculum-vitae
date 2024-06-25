@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, SafeAreaView, Image } from 'react-native';
 import { Entypo, Foundation, MaterialIcons } from '@expo/vector-icons';
 
 export default function App() {
-  let imageSource = require('./assets/IMG_E4331.png');
+  let imageSource = require('./assets/IMG_E4348.png');
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.cvCon}>
